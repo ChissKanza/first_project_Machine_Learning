@@ -44,22 +44,7 @@ L'application sera disponible sur http://localhost:8501
 
 ## ☁️ Déploiement Streamlit Cloud
 
-1. **Pousser sur GitHub :**
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit - Immo Predictor"
-   git remote add origin https://github.com/VOTRE_USER/immo-predictor.git
-   git push -u origin main
-   ```
-
-2. **Déployer :**
-   - Aller sur [share.streamlit.io](https://share.streamlit.io)
-   - Se connecter avec GitHub
-   - Sélectionner le dépôt → Branch: `main` → File: `app.py`
-   - Cliquer **Deploy**
-
-3. **Configuration :** Aucune variable d'environnement requise.
+### ** Lien du test de l'app : ** https://firstprojectmachinelearning-krts4d3unkfpcjz6irvtgt.streamlit.app/ 
 
 ---
 
